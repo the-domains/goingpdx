@@ -1,0 +1,14 @@
+layout_spectrum: 0.6372315
+typography_spectrum: 0.3555614
+color:
+  saturation: 0.1301003
+  lightness: 0.7629576
+  brandStrength: 0.1139138
+  rhythmicContrast: 0.2873226
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: GoingPDX
