@@ -1,14 +1,7 @@
-color:
-  saturation: 0.1301003
-  brandStrength: 1
-  rhythmicContrast: 0.2873226
-  brandColors:
-    - '#FFFFFF'
-    - '#020202'
-    - '#303030'
-    - '#5C5C5C'
-    - '#888888'
-  lightness: 0.7629576
+name: GoingPDX
+favicon: null
+layout_spectrum: 0.2099494
+typography_spectrum: 0.4266442
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.2099494
-typography_spectrum: 0.4266442
-name: GoingPDX
+title: Going Native off-Going Street
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#020202'
+    - '#303030'
+    - '#5C5C5C'
+    - '#888888'
+  brandStrength: 1
+  lightness: 0.7629576
+  saturation: 0.1301003
+  rhythmicContrast: 0.2873226
+purpose: []
