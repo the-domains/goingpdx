@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Going Native off-Going Street
+title: Going Native Off Going
 cta:
   domain: null
   bucket: null
