@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "We moved to Portland from Chicago while having never stepped foot in the city before. \_We had lived in other major cities previously and spent time in many others on the East Coast."
-datePublished: '2016-03-12T21:31:27.033Z'
-dateModified: '2016-03-12T21:30:56.596Z'
+description: "We moved to Portland from Chicago while having never stepped foot in Oregon before. \_We had lived in several other major cities previously and spent time in many others on the East Coast."
+datePublished: '2016-03-12T21:57:10.532Z'
+dateModified: '2016-03-12T21:50:39.871Z'
 title: ''
 author: []
 authors: []
