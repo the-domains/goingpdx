@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "We moved to Portland from Chicago while having never stepped foot in Oregon before. \_We had lived in several other major cities previously and spent time in many others on the East Coast."
-datePublished: '2016-03-13T08:56:26.268Z'
-dateModified: '2016-03-13T08:56:16.004Z'
+description: "We moved to Portland from Chicago without ever having stepped foot in Oregon. \_"
+datePublished: '2016-03-14T02:51:19.712Z'
+dateModified: '2016-03-14T02:50:52.436Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-we-moved-to-portland-from-chicago-while-having-never-stepped.md
