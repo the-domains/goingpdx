@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Going Native Off Going]]></title>
         <description><![CDATA[Going Native Off Going]]></description>
-        <link>https://thegrid.ai/goingpdx/</link>
+        <link>http://goingpdx.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 02:51:22 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/goingpdx/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 04:00:38 GMT</lastBuildDate>
+        <atom:link href="http://goingpdx.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We moved to Portland from Chicago without ever having stepped foot in Oregon.  </p>]]></description>
-            <link>https://thegrid.ai/goingpdx/we-moved-to-portland-from-chicago-while-having-never-stepped/index.html</link>
+            <link>http://goingpdx.com/we-moved-to-portland-from-chicago-while-having-never-stepped/index.html</link>
             <guid isPermaLink="false">95aa3132-8a98-4f36-910d-9e4f488ab7c0</guid>
             <pubDate>Mon, 14 Mar 2016 02:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exploring the Past - Part 1]]></title>
+            <description><![CDATA[<article><h1>Exploring the Past - Part 1</h1><p>Our inspector suggested that we explore a site called Portland Maps.  It was here that I was first able to look up the history of our house - but only as far back as the 1940's.  </p></article>]]></description>
+            <link>http://goingpdx.com/exploring-the-past-part-1/index.html</link>
+            <guid isPermaLink="false">d0813fbf-fb3c-4eda-8472-3742d181c146</guid>
+            <pubDate>Sat, 26 Mar 2016 04:00:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
