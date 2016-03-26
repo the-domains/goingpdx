@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "We moved to Portland from Chicago without ever having stepped foot in Oregon. \_"
-datePublished: '2016-03-14T02:51:19.712Z'
-dateModified: '2016-03-14T02:50:52.436Z'
+datePublished: '2016-03-26T04:02:47.820Z'
+dateModified: '2016-03-24T02:43:21.138Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-we-moved-to-portland-from-chicago-while-having-never-stepped.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: we-moved-to-portland-from-chicago-while-having-never-stepped/index.html
 _type: Article
 
